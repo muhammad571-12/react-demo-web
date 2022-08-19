@@ -1,0 +1,11 @@
+/* .oll_goods{
+    grid-gap: 20px;
+    padding: 30px,60px;
+} */
+.Good .oll_goods{
+    display: grid;
+    grid-template-columns: repeat( 3,auto);
+    grid-gap: 20px;
+    padding: 30px 60px;
+}
+
